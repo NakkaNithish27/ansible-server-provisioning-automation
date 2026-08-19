@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8941e8e-c03f-4463-8916-99efb04dd3b9" />
+
 ---
 
 ## 1. Architecture Overview
