@@ -2,6 +2,9 @@
 
 A practical Ansible automation project demonstrating inventory-driven Linux server provisioning, idempotent configuration management, reusable roles, and AWS API-based EC2 provisioning.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/52bfd44a-d015-4a01-82c1-90a333981ae7" />
+
+
 ## Overview
 
 This project demonstrates how Ansible can be used to move from one-off infrastructure operations to structured and reusable automation.
